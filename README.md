@@ -1,5 +1,9 @@
 Overview
 
+## Dashboard Preview
+![Dashboard Preview](dashboard.png)
+
+
 This project delivers an executive-style fraud analytics dashboard using an anonymized European credit card transactions dataset. The goal is to support high-level decision-making by quantifying fraud exposure, identifying where risk is concentrated, and highlighting temporal patterns in fraudulent activity.
 
 Built with: MySQL + Power BI (DAX)
